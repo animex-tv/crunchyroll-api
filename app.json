@@ -1,0 +1,11 @@
+{
+  "name": "Crunchyroll Api",
+  "description": "Crunchyroll Web Scrapping using Adonis v5",
+  "repository": "https://github.com/animex-tv/crunchyroll-api",
+  "logo": "https://www.crunchyroll.com/favicons/favicon-32x32.png",
+  "keywords": [
+    "node",
+    "adonis",
+    "crunchyroll"
+  ]
+}
